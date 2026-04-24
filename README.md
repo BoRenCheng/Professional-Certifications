@@ -10,6 +10,10 @@
 ### [NVIDIA Omniverse 認證](鄭博仁_NVDIA_Omniverse認證.pdf)
 * **核心能力**：掌握深度學習基礎理論與實踐，以及 NVIDIA Omniverse 平台之擴充功能開發技術。
 * **技術層面**：Deep Learning, Neural Networks, Omniverse Kit, Python.
+  
+* ### [Gemini Certification for Educators 認證](鄭博仁_Gemini_Certification_for_Educators.png)
+* **核心能力**：具備運用生成式 AI (Gemini) 優化教學流程、數位教案開發與提升教學行政效率之專業實務能力。
+* **技術層面**Generative AI, Prompt Engineering, Gemini Application.
 
 ---
 
