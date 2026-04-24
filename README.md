@@ -15,14 +15,14 @@
 
 ## 數據與分析 
 
-### [Google Analytics 4 (GA4) 專業認證](GoogleAnalytics(分析)認證.png)
+### [Google Analytics 4 (GA4) 專業認證](GA4_Certification.png)
 * **核心能力**：具備數位行銷數據分析、轉換追蹤與使用者行為分析之專業實務能力。
 
 ---
 
 ## 專業工具
 
-### [Microsoft Office PowerPoint 認證 (MOS Associate)](Microsoft Office PowerPoint 認證.pdf)
+### [Microsoft Office PowerPoint 認證 (MOS Associate)](Microsoft_Office_PowerPoint認證.pdf)
 * **核心能力**：具備簡報設計與多媒體製作能力，能產出具備說服力的學術報告與創業提案。
 
 ---
