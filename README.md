@@ -7,7 +7,7 @@
 ## 技術認證
 
 ### [NVIDIA DLI 深度學習 認證](鄭博仁_NVDIA_深度學習基礎理論與實踐.pdf)
-### [NVIDIA Omniverse 認證](鄭博仁_NVDIA_Omniverse 認證.pdf)
+### [NVIDIA Omniverse 認證](鄭博仁_NVDIA_Omniverse認證.pdf)
 * **核心能力**：掌握深度學習基礎理論與實踐，以及 NVIDIA Omniverse 平台之擴充功能開發技術。
 * **技術層面**：Deep Learning, Neural Networks, Omniverse Kit, Python.
 
@@ -15,7 +15,7 @@
 
 ## 數據與分析 
 
-### [Google Analytics 4 (GA4) 專業認證](Google Analytics (分析) 認證.png)
+### [Google Analytics 4 (GA4) 專業認證](GoogleAnalytics(分析)認證.png)
 * **核心能力**：具備數位行銷數據分析、轉換追蹤與使用者行為分析之專業實務能力。
 
 ---
