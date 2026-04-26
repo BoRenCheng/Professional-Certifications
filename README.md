@@ -36,3 +36,10 @@
 ### [TOEIC 聽力與閱讀 - 745 分](多益成績.jpg)
 * **核心能力**：具備基礎商務與學術英語交流能力，能流暢閱讀英文學術論文並進行全英文之國際會議發表。
 * **發表經驗**：於 ICBDA 2026 完成全英文口頭發表 (Oral Presentation)。
+
+---
+## 授權
+Copyright (c) 2026 Bo-Ren Cheng(BoRenCheng)
+
+本專案採用 MIT License 授權。
+
