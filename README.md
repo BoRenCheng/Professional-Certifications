@@ -10,6 +10,10 @@
 ### [NVIDIA Omniverse 認證](鄭博仁_NVDIA_Omniverse認證.pdf)
 * **核心能力**：掌握深度學習基礎理論與實踐，以及 NVIDIA Omniverse 平台之擴充功能開發技術。
 * **技術層面**：Deep Learning, Neural Networks, Omniverse Kit, Python.
+
+* ### [NVIDIA Jetson Nano 人工智慧應用開發認證](鄭博仁_NVDIA_透過JetsonNano開發人工智慧應用.pdf)
+* **核心能力**：具備透過 Jetson Nano 邊緣運算裝置開發人工智慧應用之實務能力。
+* **技術層面**：Edge AI, Jetson Nano, Embedded Systems, Computer Vision, Python.
   
 ### [Google Gemini Certification for Educators 認證](鄭博仁_Gemini_Certification_for_Educators.png)
 * **核心能力**：具備運用生成式 AI (Gemini) 優化教學流程、數位教案開發與提升教學行政效率之專業實務能力。
@@ -21,7 +25,15 @@
 
 ### [Google Analytics 4 (GA4) 專業認證](GA4_Certification.png)
 * **核心能力**：具備數位行銷數據分析、轉換追蹤與使用者行為分析之專業實務能力。
+  
+---
 
+## 資訊安全
+
+### [Google Foundations of Cybersecurity 認證](Google_資安證照.pdf)
+* **核心能力**：具備資訊安全基礎概念，涵蓋威脅分析、風險管理與網路安全防護實務。
+* **技術層面**：Cybersecurity Fundamentals, Threat Analysis, Risk Management, Network Security.
+  
 ---
 
 ## 專業工具
