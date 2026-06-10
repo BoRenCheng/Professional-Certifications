@@ -11,7 +11,7 @@
 * **核心能力**：掌握深度學習基礎理論與實踐，以及 NVIDIA Omniverse 平台之擴充功能開發技術。
 * **技術層面**：Deep Learning, Neural Networks, Omniverse Kit, Python.
 
-* ### [NVIDIA Jetson Nano 人工智慧應用開發認證](鄭博仁_NVDIA_透過JetsonNano開發人工智慧應用.pdf)
+### [NVIDIA Jetson Nano 人工智慧應用開發認證](鄭博仁_NVDIA_透過JetsonNano開發人工智慧應用.pdf)
 * **核心能力**：具備透過 Jetson Nano 邊緣運算裝置開發人工智慧應用之實務能力。
 * **技術層面**：Edge AI, Jetson Nano, Embedded Systems, Computer Vision, Python.
   
